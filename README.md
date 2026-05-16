@@ -1,4 +1,4 @@
-# 🕺 Dance Hero — Extraction automatique du rythme depuis une vidéo
+# Dance Hero — Extraction automatique du rythme depuis une vidéo
 
 > Détection de mouvements répétitifs à partir de vidéos silencieuses, sans audio.  
 > Projet de recherche — L3 Informatique, Université d'Angers (2025/2026)
