@@ -28,7 +28,6 @@ dance-hero/
 │       ├── analyse_video_raft_notebook.ipynb     # RAFT + ViT + MiDaS + DeepSORT
 │       ├── analyse_video_.py                     # Script standalone
 │       ├── README.md
-│       └── RAFT/                                 # À cloner séparément (voir ci-dessous)
 │
 ├── benchmark/
 │   ├── rhythm_benchmark.py                       # Pipeline universel (7 méthodes)
@@ -37,6 +36,7 @@ dance-hero/
 │   ├── floss/
 │   │   ├── ground_truth.csv
 │   │   └── benchmark_results/
+│       ├── notebook.ipynb   
 │   ├── jumping-rope/
 │   ├── shika-dance/
 │   ├── spin/
